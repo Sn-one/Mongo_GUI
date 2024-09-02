@@ -79,13 +79,6 @@ To run this application locally, follow these steps:
 - **Security Concerns**: Implement authentication and authorization mechanisms to restrict access to sensitive data.
 - **Compatibility**: Test the application across different environments and maintain compatibility documentation.
 
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
